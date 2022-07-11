@@ -1,6 +1,6 @@
-**Discord has to stay open, ideally on a second monitor due to how this works, if discord moves and the program clicks the wrong thing, I take no responsibility for anything that happens. If you do not have server mute permissions, this will only work locally.**
-
 # Mute Discord User
+
+**Discord has to stay open, ideally on a second monitor due to how this works, if discord moves and the program clicks the wrong thing, I take no responsibility for anything that happens. If you do not have server mute permissions, this will only work locally.**
 
 This allows you to press **ctrl+m** to mute the specified discord user. To exit the application press **ctrl+n**
 
