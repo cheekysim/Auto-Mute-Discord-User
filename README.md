@@ -2,8 +2,7 @@
 
 # Mute Discord User
 
-This allows you to press **ctrl+m** to mute the specified discord user
-To exit the application press **ctrl+n**
+This allows you to press **ctrl+m** to mute the specified discord user. To exit the application press **ctrl+n**
 
 This works by moving the mouse to the discord user, then clicking server mute or mute, depends on what you specify.
 The setup process allows you to hover over the selected user, then hover over the mute button, it also allows time to do this.
