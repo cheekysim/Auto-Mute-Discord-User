@@ -9,7 +9,7 @@ Run the .exe file, and follow the instructions, its that simple!
 
 # Download
 
-https://github.com/cheekysim/Youtube-Downloader/blob/master/Youtube%20Downloader.zip?raw=true
+https://github.com/cheekysim/Mute-Discord-User/blob/master/Mute%20Discord%20User.exe?raw=true
 
 
 Made By cheekysim
