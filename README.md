@@ -1,11 +1,15 @@
 # Mute Discord User
 
+A simple tool to mute discord users.
+
+# How to use:
+Run the .exe file, and follow the instructions, its that simple!
+### Warning
 **Discord has to stay open, ideally on a second monitor due to how this works, if discord moves and the program clicks the wrong thing, I take no responsibility for anything that happens. If you do not have server mute permissions, this will only work locally.**
 
-This allows you to press **ctrl+m** to mute the specified discord user. To exit the application press **ctrl+n**
+# Download
 
-This works by moving the mouse to the discord user, then clicking server mute or mute, depends on what you specify.
-The setup process allows you to hover over the selected user, then hover over the mute button, it also allows time to do this.
+https://github.com/cheekysim/Youtube-Downloader/blob/master/Youtube%20Downloader.zip?raw=true
 
-Developed by cheekysim,
-Do not reupload without my permission, if you do just credit me.
+
+Made By cheekysim

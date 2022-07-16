@@ -1,2 +1,5 @@
 package.py
 *.rar
+*.spec
+build/
+dist/
